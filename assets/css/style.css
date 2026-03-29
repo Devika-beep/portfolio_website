@@ -1,0 +1,26 @@
+/* Base font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Smooth transitions */
+body, .card {
+    transition: 0.3s;
+}
+
+/* Card hover effect */
+.card:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+/* Project card images */
+#projects .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Smooth scrolling anchor links (optional) */
+html {
+    scroll-behavior: smooth;
+}
