@@ -28,7 +28,7 @@ This repository showcases my personal portfolio, highlighting my projects, skill
 ## Live Demo
 
 > **Note:** The dynamic contact form requires a PHP server to run locally. You can view the live static placeholder version here:  
-> [GitHub Pages link]  
+>  https://devika-beep.github.io/portfolio_website/
 
 ---
 
